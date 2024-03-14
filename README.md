@@ -21,7 +21,7 @@ pip install Babel matplotlib pandas seaborn streamlit
 streamlit run dashboard.py
 
 ## Tentang Saya
-Nama: Stephanie Vivienne Tantiyo
+Nama: Luthfia Hafiz
 
 Email: luthfiahafiz31@gmail.com
 
