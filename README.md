@@ -1,7 +1,7 @@
 # Bangkit-Luthfia
 
 ## Dashboard
-Link deploy: ...
+Link deploy: https://bangkit-luthfia-ncfgduit4tjspcz4m52m27.streamlit.app/
 
 ## Tentang Proyek
 This project aims to fulfill the graduation requirement of Dicoding's "Learning Data Analysis with Python" module by using the Bike Sharing Dataset. This dataset contains information about the usage of bike sharing systems in Washington, D.C. from 2010 to 2012. The data includes information about trips, weather, days, stations, and other features.
