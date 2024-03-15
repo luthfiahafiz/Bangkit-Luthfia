@@ -1,0 +1,2 @@
+Link deploy: https://bangkit-luthfia-ncfgduit4tjspcz4m52m27.streamlit.app/
+Link github: https://github.com/luthfiahafiz/Bangkit-Luthfia
